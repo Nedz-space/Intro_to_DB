@@ -1,2 +1,4 @@
-mysql -u root -p alx_book_store < task_3.sql
+-- Select all tables from the information schema for the given database
+SHOW TABLES;
+
 
